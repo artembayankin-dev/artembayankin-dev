@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1023" height="409" alt="image" src="https://github.com/user-attachments/assets/dd052840-10de-4759-a688-b233734e7e74" />
 
 <!--
 **artembayankin-dev/artembayankin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
