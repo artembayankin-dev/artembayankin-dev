@@ -14,6 +14,41 @@ __Star Conflict Heroes:__
 <img width="1000" height="400" alt="StarConflict Heroes 2" src="https://github.com/user-attachments/assets/b6877a04-bae5-44e7-8d47-43a16a46c839" /><br><br>
 ## __My Contacts:__
 
+<p align="center">
+  <a href="https://github.com/username">
+    <img width="222" height="60" alt="Unreal FUB" src="https://github.com/user-attachments/assets/146fb916-39bc-466b-98bd-f8d8e5f2bb1c" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/username">
+    <img width="217" height="60" alt="Artstation" src="https://github.com/user-attachments/assets/4982c1d3-b396-4953-8ff7-0e872275421f" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/username">
+    <img width="202" height="60" alt="Gumroad" src="https://github.com/user-attachments/assets/6382e1c7-8bc2-484d-a8cc-705c14905538" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/username">
+    <img width="187" height="60" alt="Blender" src="https://github.com/user-attachments/assets/205ae2e4-fc79-4a3f-aeb4-d2150ebf6c75" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/username">
+    <img width="160" alt="Unreal FUB" src="https://github.com/user-attachments/assets/146fb916-39bc-466b-98bd-f8d8e5f2bb1c" />
+  </a>
+  <a href="https://github.com/username">
+    <img width="160" alt="Artstation" src="https://github.com/user-attachments/assets/4982c1d3-b396-4953-8ff7-0e872275421f" />
+  </a>
+  <a href="https://github.com/username">
+    <img width="160" alt="Gumroad" src="https://github.com/user-attachments/assets/6382e1c7-8bc2-484d-a8cc-705c14905538" />
+  </a>
+  <a href="https://github.com/username">
+    <img width="160" alt="Blender" src="https://github.com/user-attachments/assets/205ae2e4-fc79-4a3f-aeb4-d2150ebf6c75" />
+  </a>
+</p>
+
+
 
 
 <!--
