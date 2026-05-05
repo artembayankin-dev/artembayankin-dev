@@ -15,38 +15,25 @@ __Star Conflict Heroes:__
 ## __My Contacts:__
 
 <p align="center">
-  <a href="https://github.com/username">
-    <img width="222" height="60" alt="Unreal FUB" src="https://github.com/user-attachments/assets/146fb916-39bc-466b-98bd-f8d8e5f2bb1c" />
+  <a href="https://www.fab.com/sellers/Artem%20Bayankin">
+    <img width="148" alt="Unreal FUB" src="https://github.com/user-attachments/assets/0e165867-4add-481e-89f4-37b95a8b15bb" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/username">
-    <img width="217" height="60" alt="Artstation" src="https://github.com/user-attachments/assets/4982c1d3-b396-4953-8ff7-0e872275421f" />
+  &nbsp;
+  <a href="https://www.artstation.com/ravenmende">
+    <img width="145" alt="Artstation" src="https://github.com/user-attachments/assets/98425973-6763-4b03-9e89-a72cb7ce8892" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/username">
-    <img width="202" height="60" alt="Gumroad" src="https://github.com/user-attachments/assets/6382e1c7-8bc2-484d-a8cc-705c14905538" />
+  &nbsp;
+  <a href="https://ravenmende.gumroad.com">
+    <img width="135" alt="Gumroad" src="https://github.com/user-attachments/assets/47a3cf29-fc7c-4699-a542-4cc72603366b" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/username">
-    <img width="187" height="60" alt="Blender" src="https://github.com/user-attachments/assets/205ae2e4-fc79-4a3f-aeb4-d2150ebf6c75" />
+  &nbsp;
+  <a href="https://blenderartists.org/u/ravenmende/activity/topics">
+    <img width="125" alt="Blender" src="https://github.com/user-attachments/assets/939b6084-b529-4f7b-b5ed-e1f20a140b72" />
   </a>
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/username">
-    <img width="160" alt="Unreal FUB" src="https://github.com/user-attachments/assets/146fb916-39bc-466b-98bd-f8d8e5f2bb1c" />
-  </a>
-  <a href="https://github.com/username">
-    <img width="160" alt="Artstation" src="https://github.com/user-attachments/assets/4982c1d3-b396-4953-8ff7-0e872275421f" />
-  </a>
-  <a href="https://github.com/username">
-    <img width="160" alt="Gumroad" src="https://github.com/user-attachments/assets/6382e1c7-8bc2-484d-a8cc-705c14905538" />
-  </a>
-  <a href="https://github.com/username">
-    <img width="160" alt="Blender" src="https://github.com/user-attachments/assets/205ae2e4-fc79-4a3f-aeb4-d2150ebf6c75" />
-  </a>
-</p>
+
 
 
 
