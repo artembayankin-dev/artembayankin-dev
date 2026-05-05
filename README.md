@@ -1,7 +1,14 @@
-<img width="1023" height="409" alt="image" src="https://github.com/user-attachments/assets/dd052840-10de-4759-a688-b233734e7e74" />
+<img width="1023" height="409" alt="image" src="https://github.com/user-attachments/assets/dd052840-10de-4759-a688-b233734e7e74" /><br><br>
+
+## __My tech stack:__
+<img width="700" height="195" alt="Shilds 3" src="https://github.com/user-attachments/assets/1db56764-7356-4d8e-b313-692503dd2263" /><br><br>
+
 
 <!--
 **artembayankin-dev/artembayankin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
